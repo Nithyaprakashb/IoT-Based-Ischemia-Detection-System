@@ -65,7 +65,7 @@ The AD8232 sensor acquires ECG signals from the user, while the MAX30102 sensor 
 
 ## Project Demonstration
 
-<img src="images/prototype.jpg" alt="Project Prototype" width="500">
+<img src="images/prototype.jpeg" alt="Project Prototype" width="500">
 
 ## Future Enhancements
 

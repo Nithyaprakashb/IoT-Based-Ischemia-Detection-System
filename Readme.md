@@ -14,14 +14,18 @@ The Smart Ischemia Detection System is an IoT-based healthcare monitoring soluti
 * Portable and low-cost healthcare solution
 * Early indication of cardiac abnormalities
 
-## Hardware Components
+## Components Used
 
-* ESP32 Development Board
-* AD8232 ECG Sensor
-* MAX30102 Pulse Oximeter Sensor
-* ECG Electrodes
-* Jumper Wires
-* Power Supply
+| Component | Purpose |
+|------------|----------|
+| ESP32 Development Board | Main microcontroller for data acquisition and wireless communication |
+| AD8232 ECG Sensor | Captures ECG signals for cardiac activity monitoring |
+| MAX30102 Pulse Oximeter Sensor | Measures Heart Rate (BPM) and Blood Oxygen Saturation (SpO₂) |
+| ECG Electrodes | Collect bioelectrical signals from the body |
+| TP4056 Charging Module | Li-ion battery charging and protection circuit |
+| Li-Po Battery | Portable power source for the system |
+| LM2596 Buck Converter | Provides regulated voltage supply to sensors and modules |
+| Connecting Wires | Electrical connections between components |
 
 ## Software Stack
 
